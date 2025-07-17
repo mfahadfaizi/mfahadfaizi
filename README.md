@@ -92,16 +92,16 @@ Here are some recent **real-world apps** I've contributed to:
 | `Daf3` | Buyer-Seller Marketplace | A dual-role commerce platform |
 | `ticketing_app` | Support System | Real-time customer support with ticket tracking |
 | `VapVap_Eats` | Food Delivery | Multi-restaurant food ordering app |
-| `gowin` | Social Betting | Prediction & gaming logic with user feed |
+| `gowin` | Sports Booking | A ground play area **schedule booking app** with time-slot reservations |
 | `The_Mecca_Center` | Community App | For announcements, donations, and local events |
 | `happy_bible` | Faith & Lifestyle | Daily scripture app with reminders |
-| `gig_finder` | Freelance Marketplace | Gig listings and smart matching |
-| `Taxigo_rider / Taxigo_user` | Ride-Hailing | Rider and driver apps with GPS tracking |
-| `my_perfume_concierge` | E-commerce | High-end product catalog and ordering |
+| `gig_finder` | Event Promotion | A gig booking platform for **musicians and public figures** to create tours by scheduling multiple events and sharing them with the public |
+| `Taxigo_rider / Taxigo_user` | Ride-Hailing | A **Portugal-based cab booking application** with real-time ride tracking |
+| `my_perfume_concierge` | Lifestyle & E-commerce | Curated **perfume selection app** that matches scents to your current mood and preferences |
 | `Laundry / Laundry-Washer` | On-Demand Services | Scheduling, order tracking, and agent management |
 | `Giramahoro` | Insurance | Insurance purchasing and claims submission |
 | `TrainerApp` | Fitness & Wellness | Booking trainers and personalized schedules |
-| `Ai_Analysis` | AI Utility | Data visualization using ML and AI tools |
+| `Ai_Analysis` | Sports & AI | A smart **football match analysis app** using AI for predictions and performance breakdown |
 | `flazzh_user / flazzh_driver` | Ride + Parcel + Food | Super app with multi-service support |
 | `e_book_application` | Education | Interactive e-book marketplace |
 | `Trimax-Engineering` | Procurement | Purchase order workflow system |

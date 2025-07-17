@@ -83,15 +83,33 @@ Leveraging cutting-edge AI tools in mobile development:
 
 ---
 
-## 📚 Highlighted Projects
+## 🔥 Recent Projects (Private Repos)
 
-| Project | Tech Used | Notes |
-|--------|-----------|-------|
-| `Doctor_Patient_App_UI` | Flutter, Firebase | Clean UI for doctor-patient consultations |
-| `nanny_express` | Flutter, Firebase | Service booking with user verification |
-| `Flutter_live_streaming_zego_cloud` | Flutter, ZegoCloud | Full-featured live video broadcast app |
-| `Stripe Payment Gateway` | PHP, MySQL | Secure Stripe integration |
-| `Apple Watch + Vision App (Private)` | Flutter, ML Kit, OpenAI | AI health monitoring experience |
+Here are some recent **real-world apps** I've contributed to:
+
+| App Name | Domain | Description |
+|----------|--------|-------------|
+| `Daf3` | Buyer-Seller Marketplace | A dual-role commerce platform |
+| `ticketing_app` | Support System | Real-time customer support with ticket tracking |
+| `VapVap_Eats` | Food Delivery | Multi-restaurant food ordering app |
+| `gowin` | Social Betting | Prediction & gaming logic with user feed |
+| `The_Mecca_Center` | Community App | For announcements, donations, and local events |
+| `happy_bible` | Faith & Lifestyle | Daily scripture app with reminders |
+| `gig_finder` | Freelance Marketplace | Gig listings and smart matching |
+| `Taxigo_rider / Taxigo_user` | Ride-Hailing | Rider and driver apps with GPS tracking |
+| `my_perfume_concierge` | E-commerce | High-end product catalog and ordering |
+| `Laundry / Laundry-Washer` | On-Demand Services | Scheduling, order tracking, and agent management |
+| `Giramahoro` | Insurance | Insurance purchasing and claims submission |
+| `TrainerApp` | Fitness & Wellness | Booking trainers and personalized schedules |
+| `Ai_Analysis` | AI Utility | Data visualization using ML and AI tools |
+| `flazzh_user / flazzh_driver` | Ride + Parcel + Food | Super app with multi-service support |
+| `e_book_application` | Education | Interactive e-book marketplace |
+| `Trimax-Engineering` | Procurement | Purchase order workflow system |
+| `OnDemand` | Services | Instant access to multiple home-based services |
+| `tactical_bet` | Sports Prediction | Live betting interface & real-time odds |
+| `Hipnosito` | Sleep & Calm | Hypnosis and meditation audio streaming |
+
+> Many of these apps include **video streaming**, **real-time notifications**, **in-app payments**, and **AI recommendations**.
 
 ---
 

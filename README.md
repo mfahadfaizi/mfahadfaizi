@@ -90,7 +90,6 @@ Leveraging cutting-edge AI tools in mobile development:
 | `Doctor_Patient_App_UI` | Flutter, Firebase | Clean UI for doctor-patient consultations |
 | `nanny_express` | Flutter, Firebase | Service booking with user verification |
 | `Flutter_live_streaming_zego_cloud` | Flutter, ZegoCloud | Full-featured live video broadcast app |
-| `TokShop-Admin / TokShop-API` | Flutter, PHP | Admin + backend for social commerce |
 | `Stripe Payment Gateway` | PHP, MySQL | Secure Stripe integration |
 | `Apple Watch + Vision App (Private)` | Flutter, ML Kit, OpenAI | AI health monitoring experience |
 

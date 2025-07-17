@@ -1,113 +1,147 @@
 # 👋 Hi, I'm Muhammad Fahad Qureshi
 
-**🏗️ Mobile App Developer | 💻 Flutter Specialist | 🚀 Cross-Platform Tech Enthusiast**
+**🏗️ Senior Flutter Developer | 💻 Cross-Platform Expert | 🚀 AI-Powered Mobile App Innovator**
 
-Welcome to my GitHub! I’m a passionate and experienced **Flutter developer** with over **3 years** of professional experience building modern, scalable, and high-performance mobile applications for Android and iOS platforms. I specialize in **cross-platform app development**, focusing on delivering production-ready applications for industries such as **e-commerce, healthcare, fintech, car rentals, food delivery, live streaming**, and more.
+Welcome to my GitHub! I’m a **seasoned mobile app developer with over 7 years of experience** in designing, developing, and deploying powerful, scalable, and AI-integrated mobile applications. My expertise lies in building **cross-platform solutions** using **Flutter** for a wide range of industries, including **e-commerce, healthcare, fintech, ride-hailing, food delivery, and next-gen social media**.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Weblinx Solution** as a **Flutter App Developer**
-- 🌱 Skilled in **Flutter, Dart, Firebase, REST APIs, and State Management (BLoC, GetX, Provider, Riverpod)**
-- ⚙️ Prior experience in **PHP web development**
-- 🎯 Focused on building **pixel-perfect UIs, optimized performance**, and smooth UX
-- 📲 Experienced in publishing apps on **Google Play Store** and **Apple App Store**
-- 🌍 Based in **Karachi, Pakistan**
+- 🔭 Currently a **Senior Flutter Developer at Weblinx Solution**
+- 🧠 Deep understanding of **Flutter internals, architecture, and advanced state management**
+- 🤖 Pioneer in using **AI tools like ChatGPT, Claude Sonnet, Gemini, and Mistral** in real-world mobile applications
+- 🧬 Built apps for **Apple Watch** and **Apple Vision Pro**, integrating **machine learning** and **streaming capabilities**
+- 🌍 Proficient in full-cycle app deployment: **CI/CD, dynamic linking, push notifications**, and **App Store / Play Store publishing**
+- 📲 Specialist in **video streaming**, **real-time communication**, and **social media-style apps**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Core Tech Stack
 
-### 🧠 Languages
-- Dart, PHP, C++, JavaScript, HTML/CSS
+### 🎯 Languages & Frameworks
+- **Flutter / Dart**
+- PHP (for backend services)
 
-### 📱 Mobile
-- Flutter (iOS & Android)
-- Native Android (basic knowledge)
-- Hybrid app development
+### ☁️ Backend & Services
+- **Firebase** (Firestore, Auth, Dynamic Links, Cloud Messaging)
+- **Supabase** (Postgres, Auth, Realtime, Storage)
+- **MySQL / SQL**
 
-### 🧩 State Management
+### 📦 State Management
 - BLoC / Cubit
-- Provider
+- Riverpod (Hooks, Code Generation)
 - GetX
-- Riverpod
+- Provider (basic)
 
-### ☁️ Backend & APIs
-- Firebase (Auth, Firestore, Storage, FCM)
-- Supabase
-- REST APIs
-- Node.js (basic)
-- Stripe API Integration
-- Google Maps, Zego Cloud (Live Streaming)
-
-### 💾 Databases
-- Firestore, SQLite, MySQL
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Android Studio / VS Code
-- Postman
-- Trello / Jira / Slack
-- Figma / Adobe XD (basic prototyping)
+### ⚙️ Core Flutter Concepts
+- Custom RenderObjects & Slivers
+- Platform Channels (native integrations)
+- Isolates for concurrent tasking
+- Code splitting & modularization
+- Adaptive UI (for tablet, wearable, vision)
 
 ---
 
-## 📚 Featured Projects
+## 🧠 AI & Machine Learning
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🩺 [Doctor_Patient_App_UI](https://github.com/mfahadfaizi/Doctor_Patient_App_UI) | A clean and functional doctor-patient interface for healthcare use cases | Flutter, Firebase |
-| 👶 `nanny_express` *(Private)* | Nanny and home service booking app with real-time features | Flutter, Firebase |
-| 🛍️ `TokShop-Admin` & `TokShop-API` *(Private)* | E-commerce dashboard and backend | Flutter, PHP |
-| 📽️ [Flutter_live_streaming_zego_cloud](https://github.com/mfahadfaizi/Flutter_live_streaming_zego_cloud) | Live video chat using Zego Cloud | Flutter, Zego SDK |
-| 💳 [stripe-payment-gateway-integration-php](https://github.com/mfahadfaizi/stripe-payment-gateway-integration-php) | Payment gateway system with Stripe | PHP, MySQL |
-| 💱 [CurrencyConverter](https://github.com/mfahadfaizi/CurrencyConverter) | A simple currency conversion tool | C++ |
+Leveraging cutting-edge AI tools in mobile development:
 
-> For more private projects, feel free to contact me.
+- **Integrated ChatGPT (OpenAI)**: Conversational interfaces
+- **Claude Sonnet**: Smart onboarding and content generation
+- **Gemini Pro (Google)**: Image, vision & voice intelligence
+- **Custom ML Models**: Recommendation engines, content moderation
+- **AI-powered chatbots**, dynamic feedback, and personalized UX flows
+
+---
+
+## 📡 Streaming, Media, & Cloud
+
+- **Agora**: Real-time voice & video communication
+- **ZegoCloud**: Live streaming & video conferencing
+- **Amazon Web Services (AWS)**: EC2, S3, Lambda, CloudFront
+- **Advanced media handling**: Background streaming, bitrate control
+- Built **TikTok-like** & **Facebook-like** social media apps with:
+  - Infinite scrolling feed
+  - Live comments
+  - Reels/shorts
+  - Monetization and gifting systems
+
+---
+
+## 📱 Industry Projects
+
+| Category | Description |
+|---------|-------------|
+| 🛍️ E-commerce | Multi-vendor platforms, product listing, real-time stock, secure checkout |
+| 🩺 Healthcare | Doctor-patient consultation, appointment booking, online prescriptions |
+| 🚗 Car Booking | On-demand ride booking & car rental with real-time maps |
+| 🍔 Food Delivery | Restaurant menu, orders, tracking, POS integrations |
+| 💳 Fintech | Budgeting apps, wallet integrations, payment gateways |
+| 🎥 Social Media | Live streaming, video posting, comment reactions, story features |
+| 🎮 Watch & Vision Apps | Apps for **Apple Watch** and **Apple Vision Pro** using Flutter & AI |
+
+---
+
+## 📚 Highlighted Projects
+
+| Project | Tech Used | Notes |
+|--------|-----------|-------|
+| `Doctor_Patient_App_UI` | Flutter, Firebase | Clean UI for doctor-patient consultations |
+| `nanny_express` | Flutter, Firebase | Service booking with user verification |
+| `Flutter_live_streaming_zego_cloud` | Flutter, ZegoCloud | Full-featured live video broadcast app |
+| `TokShop-Admin / TokShop-API` | Flutter, PHP | Admin + backend for social commerce |
+| `Stripe Payment Gateway` | PHP, MySQL | Secure Stripe integration |
+| `Apple Watch + Vision App (Private)` | Flutter, ML Kit, OpenAI | AI health monitoring experience |
+
+---
+
+## 📦 Store Publishing Experience
+
+- 🟢 Published over **20+ apps** on **Google Play Store**
+- 🍎 Published several cross-platform apps on **Apple App Store**
+- Specialized in:
+  - App Store Optimization (ASO)
+  - Dynamic Linking & Deep Linking
+  - In-app purchases (RevenueCat / Stripe)
+  - Firebase Messaging & Notifications
 
 ---
 
 ## 💼 Work Experience
 
-### 🔹 Flutter App Developer – Weblinx Solution  
+### 🔹 **Senior Flutter App Developer – Weblinx Solution**  
 *Feb 2023 – Present*  
-- Developed and maintained cross-platform apps with real-time features  
-- Delivered scalable e-commerce and financial applications  
-- Integrated payment gateways, APIs, and third-party SDKs
+Built cutting-edge apps integrating video streaming, social features, and AI tools.
 
-### 🔹 Flutter App Developer – IT Media Zone  
+### 🔹 **Flutter Developer – IT Media Zone**  
 *Nov 2021 – Mar 2023*  
-- Worked on mobile-first projects in healthcare, restaurant, and ride-booking domains  
-- Focused on UI/UX, backend integration, and performance optimization
+Led frontend dev in apps for healthcare and financial sectors with complex logic.
 
-### 🔹 PHP Programmer – Deevloopers  
+### 🔹 **PHP Programmer – Deevloopers**  
 *Feb 2021 – Dec 2021*  
-- Built CMS and backend services using PHP  
-- Transitioned to mobile development by integrating APIs with Flutter frontends
+Developed backend APIs and CMS systems before transitioning to full-time Flutter.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadfaizi&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [mfahadfaizi@gmail.com](mailto:mfahadfaizi@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/m-fahad-faizi-909ab3206](https://linkedin.com/in/m-fahad-faizi-909ab3206)  
-- 🌐 Portfolio/Company: [Weblinx Solution](https://weblinxsolution.com/)  
-- 🧑 GitHub: [github.com/mfahadfaizi](https://github.com/mfahadfaizi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadfaizi&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔎 Keywords (SEO)
+## 🔗 Let's Connect
 
-`Flutter Developer` • `Mobile App Developer` • `Cross-Platform App` • `Android iOS Developer` • `Hybrid Apps` • `Fintech Developer` • `Live Streaming App Flutter` • `Firebase Expert` • `Stripe Integration Flutter` • `Healthcare App Developer` • `E-commerce Mobile App` • `Nanny Booking App` • `Car Rental App Flutter` • `GetX Provider Riverpod BLoC` • `Play Store App Publisher` • `App Store Deployment`
+- 📧 **Email**: [mfahadfaizi@gmail.com](mailto:mfahadfaizi@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/m-fahad-faizi-909ab3206](https://linkedin.com/in/m-fahad-faizi-909ab3206)  
+- 🧑 **GitHub**: [github.com/mfahadfaizi](https://github.com/mfahadfaizi)
 
 ---
 
-> 📌 **Always open to collaboration and freelance opportunities. Let’s build something amazing!**
+## 🔍 SEO Keywords
 
+`Senior Flutter Developer`, `Cross-Platform Expert`, `Live Streaming App Flutter`, `ZegoCloud Developer`, `Agora Integration`, `Apple Watch Flutter`, `Apple Vision Pro App`, `AI Mobile Developer`, `OpenAI ChatGPT Claude Integration`, `Gemini App Developer`, `AWS Cloud Video Streaming`, `TikTok Clone App`, `Social Media Flutter App`, `App Store Submission Expert`, `Flutter Riverpod Hooks`, `BLoC Flutter Expert`, `Mobile App Firebase Supabase`, `Dynamic Linking Flutter`, `Claude Sonnet Mobile`, `Machine Learning in Flutter`, `Fintech Flutter Developer`, `Healthcare App Developer`, `Social Commerce Mobile`
+
+---
+
+> 📌 **Open to collaboration, mentoring, and freelance opportunities. Let’s create next-gen mobile experiences!**
